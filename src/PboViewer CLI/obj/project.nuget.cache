@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0sOk1hoMLjvSDJehOkbHs0rLqOJDjHzIDUgys3Q9h+M3SGRkU+DkZpqHSIHeDfAXD+1/Uq92XkBdijFwtYgrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tcroi\\.nuget\\packages\\manyconsole\\2.0.1\\manyconsole.2.0.1.nupkg.sha512",
+    "C:\\Users\\tcroi\\.nuget\\packages\\mono.options\\5.3.0\\mono.options.5.3.0.nupkg.sha512",
+    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.9\\microsoft.netcore.app.runtime.linux-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.9\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.9\\microsoft.netcore.app.host.linux-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

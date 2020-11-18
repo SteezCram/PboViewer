@@ -1,0 +1,32 @@
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer CLI.exe
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer CLI.deps.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer CLI.runtimeconfig.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer CLI.runtimeconfig.dev.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer CLI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer CLI.pdb
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\ManyConsole.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\bin\Release\netcoreapp3.1\Mono.Options.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.AssemblyInfoInputs.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.AssemblyInfo.cs
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.csproj.CoreCompileInputs.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.csproj.CopyComplete
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.pdb
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.genruntimeconfig.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.csprojAssemblyReference.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer.exe
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer.deps.json
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer.runtimeconfig.json
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer.runtimeconfig.dev.json
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\PboViewer.pdb
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\ManyConsole.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\bin\Release\netcoreapp3.1\Mono.Options.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.csprojAssemblyReference.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.AssemblyInfoInputs.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.AssemblyInfo.cs
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.csproj.CoreCompileInputs.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.csproj.CopyComplete
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer.pdb
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer CLI\obj\Release\netcoreapp3.1\PboViewer CLI.genruntimeconfig.cache

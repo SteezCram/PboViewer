@@ -1,0 +1,741 @@
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.deps.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.runtimeconfig.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.runtimeconfig.dev.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.pdb
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Animation.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Base.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Controls.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.DesignerSupport.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.DesktopRuntime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Diagnostics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Dialogs.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Input.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Interactivity.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Layout.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Logging.Serilog.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Markup.Xaml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Markup.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.OpenGL.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Styling.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Themes.Default.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Visuals.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Desktop.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Direct2D1.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.FreeDesktop.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Native.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Remote.Protocol.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Skia.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Win32.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Avalonia.X11.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Citrus.Avalonia.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\JetBrains.Annotations.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.VisualBasic.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.SystemEvents.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Serilog.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Serilog.Sinks.Debug.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Serilog.Sinks.Trace.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SharpDX.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SharpDX.Direct2D1.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SharpDX.Direct3D11.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SharpDX.DXGI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SharpGen.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SharpGen.Runtime.COM.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SkiaSharp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.Common.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reactive.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Tmds.DBus.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libSkiaSharp.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libuv.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CSharp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.VisualBasic.Core.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.Registry.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.AppContext.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Buffers.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Concurrent.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Immutable.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Collections.NonGeneric.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Specialized.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Collections.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.Annotations.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.DataAnnotations.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.TypeConverter.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Configuration.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Console.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Core.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Data.Common.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Data.DataSetExtensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Data.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Contracts.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Debug.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Process.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.StackTrace.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Tools.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.TraceSource.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Tracing.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Dynamic.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Calendars.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Brotli.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.FileSystem.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.ZipFile.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.Watcher.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.IsolatedStorage.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.MemoryMappedFiles.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Pipes.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Pipes.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Expressions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Parallel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Queryable.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Linq.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Memory.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.HttpListener.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Mail.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.NameResolution.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.NetworkInformation.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Ping.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Requests.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.ServicePoint.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Sockets.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebClient.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebHeaderCollection.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebProxy.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebSockets.Client.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebSockets.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Numerics.Vectors.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Numerics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ObjectModel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Private.DataContractSerialization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Private.Uri.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Private.Xml.Linq.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Private.Xml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.DispatchProxy.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.Lightweight.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Metadata.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.TypeExtensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Resources.Reader.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Resources.ResourceManager.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Resources.Writer.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Handles.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Intrinsics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Loader.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Numerics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Formatters.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Json.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Xml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.WindowsRuntime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Claims.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Algorithms.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Cng.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Csp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Encoding.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Principal.Windows.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Principal.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.SecureString.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ServiceModel.Web.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ServiceProcess.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.CodePages.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encodings.Web.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Text.Json.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Text.RegularExpressions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Channels.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Overlapped.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Dataflow.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Parallel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Thread.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.ThreadPool.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Timer.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Threading.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Transactions.Local.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Transactions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.ValueTuple.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Web.HttpUtility.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Web.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Windows.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.Linq.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.ReaderWriter.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.Serialization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XDocument.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XPath.XDocument.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XPath.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XmlDocument.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XmlSerializer.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Xml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\WindowsBase.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\mscorlib.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\netstandard.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\SOS_README.md
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Private.CoreLib.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Native.OpenSsl.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Native.OpenSsl.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\createdump
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libclrjit.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libcoreclr.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libcoreclrtraceptprovider.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libdbgshim.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libhostfxr.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libhostpolicy.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libmscordaccore.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\bin\Release\netcoreapp3.1\debian-x64\libmscordbi.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csprojAssemblyReference.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.AssemblyInfoInputs.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.AssemblyInfo.cs
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csproj.CoreCompileInputs.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csproj.CopyComplete
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.pdb
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.genruntimeconfig.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.deps.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.runtimeconfig.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.runtimeconfig.dev.json
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer GUI.pdb
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Animation.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Base.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Controls.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.DesignerSupport.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.DesktopRuntime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Diagnostics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Dialogs.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Input.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Interactivity.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Layout.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Logging.Serilog.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Markup.Xaml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Markup.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.OpenGL.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Styling.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Themes.Default.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Visuals.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Desktop.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Direct2D1.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.FreeDesktop.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Native.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Remote.Protocol.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Skia.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Win32.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.X11.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Citrus.Avalonia.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\JetBrains.Annotations.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.VisualBasic.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.SystemEvents.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Serilog.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Serilog.Sinks.Debug.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Serilog.Sinks.Trace.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.Direct2D1.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.Direct3D11.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.DXGI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpGen.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpGen.Runtime.COM.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SkiaSharp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.Common.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reactive.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Tmds.DBus.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libSkiaSharp.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libuv.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CSharp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.VisualBasic.Core.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.Registry.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.AppContext.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Buffers.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Concurrent.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Immutable.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.NonGeneric.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Specialized.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.Annotations.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.DataAnnotations.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.TypeConverter.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Configuration.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Console.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Core.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Data.Common.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Data.DataSetExtensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Data.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Contracts.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Debug.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Process.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.StackTrace.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Tools.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.TraceSource.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Tracing.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Dynamic.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Calendars.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Brotli.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.FileSystem.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.ZipFile.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.Watcher.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.IsolatedStorage.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.MemoryMappedFiles.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Pipes.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Pipes.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Expressions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Parallel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Queryable.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Memory.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.HttpListener.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Mail.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.NameResolution.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.NetworkInformation.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Ping.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Requests.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.ServicePoint.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Sockets.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebClient.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebHeaderCollection.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebProxy.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebSockets.Client.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebSockets.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Numerics.Vectors.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Numerics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ObjectModel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.DataContractSerialization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.Uri.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.Xml.Linq.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.Xml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.DispatchProxy.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.Lightweight.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Metadata.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.TypeExtensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Resources.Reader.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Resources.ResourceManager.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Resources.Writer.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Handles.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Intrinsics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Loader.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Numerics.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Formatters.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Json.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Xml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.WindowsRuntime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Claims.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Algorithms.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Cng.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Csp.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Encoding.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Principal.Windows.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Principal.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.SecureString.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ServiceModel.Web.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ServiceProcess.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.CodePages.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encodings.Web.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Json.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.RegularExpressions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Channels.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Overlapped.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Dataflow.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Parallel.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Thread.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.ThreadPool.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Timer.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Transactions.Local.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Transactions.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ValueTuple.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Web.HttpUtility.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Web.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Windows.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.Linq.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.ReaderWriter.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.Serialization.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XDocument.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XPath.XDocument.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XPath.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XmlDocument.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XmlSerializer.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\WindowsBase.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\mscorlib.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\netstandard.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SOS_README.md
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.Native.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.Native.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.CoreLib.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Native.OpenSsl.a
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Native.OpenSsl.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\createdump
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libclrjit.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libcoreclr.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libcoreclrtraceptprovider.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libdbgshim.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libhostfxr.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libhostpolicy.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libmscordaccore.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libmscordbi.so
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csprojAssemblyReference.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.AssemblyInfoInputs.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.AssemblyInfo.cs
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csproj.CoreCompileInputs.cache
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csproj.CopyComplete
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.dll
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.pdb
+D:\Developpement\source\c#\avalonia\PboMaker\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.genruntimeconfig.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer.deps.json
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer.runtimeconfig.json
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer.runtimeconfig.dev.json
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\PboViewer.pdb
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Animation.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Base.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Controls.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.DesignerSupport.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.DesktopRuntime.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Diagnostics.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Dialogs.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Input.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Interactivity.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Layout.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Logging.Serilog.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Markup.Xaml.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Markup.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.OpenGL.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Styling.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Themes.Default.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Visuals.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Desktop.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Direct2D1.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.FreeDesktop.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Native.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Remote.Protocol.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Skia.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.Win32.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Avalonia.X11.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Citrus.Avalonia.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\JetBrains.Annotations.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.VisualBasic.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.SystemEvents.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Serilog.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Serilog.Sinks.Debug.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Serilog.Sinks.Trace.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.Direct2D1.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.Direct3D11.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpDX.DXGI.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpGen.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SharpGen.Runtime.COM.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SkiaSharp.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.Common.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reactive.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Tmds.DBus.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libSkiaSharp.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libuv.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.CSharp.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.VisualBasic.Core.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\Microsoft.Win32.Registry.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.AppContext.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Buffers.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Concurrent.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Immutable.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.NonGeneric.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.Specialized.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Collections.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.Annotations.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.DataAnnotations.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.TypeConverter.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ComponentModel.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Configuration.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Console.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Core.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Data.Common.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Data.DataSetExtensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Data.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Contracts.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Debug.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Process.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.StackTrace.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Tools.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.TraceSource.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Diagnostics.Tracing.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Drawing.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Dynamic.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Calendars.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Brotli.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.FileSystem.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.ZipFile.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.Watcher.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.FileSystem.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.IsolatedStorage.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.MemoryMappedFiles.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Pipes.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Pipes.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Expressions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Parallel.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.Queryable.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Linq.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Memory.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.HttpListener.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Mail.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.NameResolution.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.NetworkInformation.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Ping.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Requests.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.ServicePoint.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Sockets.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebClient.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebHeaderCollection.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebProxy.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebSockets.Client.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.WebSockets.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Numerics.Vectors.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Numerics.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ObjectModel.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.DataContractSerialization.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.Uri.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.Xml.Linq.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.Xml.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.DispatchProxy.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.Lightweight.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Emit.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Metadata.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.TypeExtensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Reflection.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Resources.Reader.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Resources.ResourceManager.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Resources.Writer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Handles.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.InteropServices.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Intrinsics.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Loader.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Numerics.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Formatters.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Json.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.Xml.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.Serialization.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.WindowsRuntime.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Runtime.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.AccessControl.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Claims.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Algorithms.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Cng.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Csp.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Encoding.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Primitives.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Principal.Windows.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Principal.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.SecureString.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ServiceModel.Web.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ServiceProcess.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.CodePages.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encoding.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Encodings.Web.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.Json.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Text.RegularExpressions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Channels.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Overlapped.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Dataflow.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Extensions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.Parallel.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Tasks.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Thread.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.ThreadPool.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.Timer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Threading.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Transactions.Local.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Transactions.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.ValueTuple.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Web.HttpUtility.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Web.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Windows.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.Linq.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.ReaderWriter.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.Serialization.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XDocument.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XPath.XDocument.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XPath.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XmlDocument.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.XmlSerializer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Xml.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\WindowsBase.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\mscorlib.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\netstandard.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\SOS_README.md
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Globalization.Native.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Native.a
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.IO.Compression.Native.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Native.a
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Native.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.Native.a
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Http.Native.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.Native.a
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Net.Security.Native.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Private.CoreLib.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Native.OpenSsl.a
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\System.Security.Cryptography.Native.OpenSsl.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\createdump
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libclrjit.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libcoreclr.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libcoreclrtraceptprovider.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libdbgshim.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libhostfxr.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libhostpolicy.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libmscordaccore.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\netcoreapp3.1\debian-x64\libmscordbi.so
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csprojAssemblyReference.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.AssemblyInfoInputs.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.AssemblyInfo.cs
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csproj.CoreCompileInputs.cache
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.csproj.CopyComplete
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer.dll
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer.pdb
+D:\Developpement\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\netcoreapp3.1\debian-x64\PboViewer GUI.genruntimeconfig.cache
