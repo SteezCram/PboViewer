@@ -13,6 +13,6 @@ You have two command for the CLI:
 - packFolder, arguments: --path or -p, path of the folder to pack
 - unpackFolder, arguments: --path or -p, path of the PBO to unpack
 
-Here is one exemple for each command:
+Here is one example for each command:
 - `./PboViewer packFolder --path="C:\test"`
-- `./PboViewer unpackFolder --path="C:\test"`
+- `./PboViewer unpackFolder --path="C:\test.pbo"`
