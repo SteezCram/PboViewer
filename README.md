@@ -15,4 +15,4 @@ You have two command for the CLI:
 
 Here is one example for each command:
 - `./PboViewer packFolder --path="C:\test"`
-- `./PboViewer unpackFolder --path="C:\test"`
+- `./PboViewer unpackFolder --path="C:\test.pbo"`
