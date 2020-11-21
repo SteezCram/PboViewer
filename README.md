@@ -16,3 +16,6 @@ You have two command for the CLI:
 Here is one example for each command:
 - `./PboViewer packFolder --path="C:\test"`
 - `./PboViewer unpackFolder --path="C:\test.pbo"`
+- `./PboViewer listFiles --path="C:\test.pbo"`
+
+The return of `listFiles` is in this format: `Path: fileName, Size: fileSize, Data size: dataSize, Timestamp: timestamp, Packing method: packingMethod`
