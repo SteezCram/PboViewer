@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace PboViewer_CLI.Commands
+namespace PboViewer.Commands
 {
     /// <summary>
     /// Pack a folder as a PBO
@@ -42,10 +42,13 @@ namespace PboViewer_CLI.Commands
                 pboSharpClient.ExtractAll(PboPath, Path.Combine(Path.GetDirectoryName(PboPath), Path.GetFileNameWithoutExtension(PboPath)));
                 pboSharpClient.Dispose();
 
-                return PboViewer.PboViewer.Success;
+                Console.Out.WriteLine($"Pbo successful unpack at the path: {Path.Combine(Path.GetDirectoryName(PboPath), Path.GetFileNameWithoutExtension(PboPath))}");
+
+                return PboViewer.Success;
             }
-            catch {
-                return PboViewer.PboViewer.Failure;
+            catch (Exception ex) {
+                Console.Out.WriteLine($"Unexpected error: {Environment.NewLine}{ex}");
+                return PboViewer.Failure;
             }
         }
     }

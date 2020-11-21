@@ -23,29 +23,6 @@
           "lib/netstandard1.3/Mono.Options.dll": {}
         }
       }
-    },
-    ".NETCoreApp,Version=v3.1/ubuntu-x64": {
-      "ManyConsole/2.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Mono.Options": "5.3.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/ManyConsole.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/ManyConsole.dll": {}
-        }
-      },
-      "Mono.Options/5.3.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.3/Mono.Options.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/Mono.Options.dll": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -151,31 +128,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-            "version": "[3.1.9, 3.1.9]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[3.1.9, 3.1.9]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-            "version": "[3.1.9, 3.1.9]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "ubuntu-x64": {
-        "#import": []
       }
     }
   }
