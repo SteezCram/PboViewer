@@ -1,0 +1,28 @@
+﻿<FluentWindow xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+		    Width="800" Height="450"
+		    x:Class="PboViewer.Windows.PboViewerMainWindow"
+		    Title="Pbo Viewer"
+        Background="{x:Null}">
+
+  <FluentWindow.Styles>
+    <Style Selector="TitleBar:fullscreen">
+      <Setter Property="Background" Value="White"/>
+    </Style>
+  </FluentWindow.Styles>
+
+  <Grid>
+    <ExperimentalAcrylicBorder IsHitTestVisible="False">
+      <ExperimentalAcrylicBorder.Material>
+        <ExperimentalAcrylicMaterial TintColor="#222222" MaterialOpacity="0.85" TintOpacity="1"/>
+      </ExperimentalAcrylicBorder.Material>
+      
+      <TextBlock Name="Title" Text="PBO Viewer" Margin="7" FontSize="14" FontWeight="Light"/>
+    </ExperimentalAcrylicBorder>
+
+    <Border Margin="0,30,0,0" Child="{Binding Child}"/>
+  </Grid>
+</FluentWindow>

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "ManyConsole/2.0.1": {
         "type": "package",
         "dependencies": {
@@ -63,26 +63,26 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
       "ManyConsole >= 2.0.1"
     ]
   },
   "packageFolders": {
     "C:\\Users\\tcroi\\.nuget\\packages\\": {},
-    "E:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "G:\\Logiciels\\Microsoft\\Xamarin\\NuGet": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
+      "projectUniqueName": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
       "projectName": "PboViewer",
-      "projectPath": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
+      "projectPath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
       "packagesPath": "C:\\Users\\tcroi\\.nuget\\packages\\",
-      "outputPath": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\obj\\",
+      "outputPath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Microsoft\\Xamarin\\NuGet\\",
+        "G:\\Logiciels\\Microsoft\\Xamarin\\NuGet",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -91,15 +91,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -110,8 +110,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "dependencies": {
           "ManyConsole": {
             "target": "Package",
@@ -133,7 +133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

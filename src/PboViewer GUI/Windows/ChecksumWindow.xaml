@@ -1,0 +1,37 @@
+<FluentWindow xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="250"
+        Width="400" Height="250"
+        x:Class="PboViewer.Windows.ChecksumWindow"
+        Title="PBO Viewer - Checksum"
+        Background="{x:Null}">
+  
+  <FluentWindow.Styles>
+    <Style Selector="TitleBar:fullscreen">
+      <Setter Property="Background" Value="White"/>
+    </Style>
+  </FluentWindow.Styles>
+
+  <Grid>
+    <ExperimentalAcrylicBorder IsHitTestVisible="False">
+      <ExperimentalAcrylicBorder.Material>
+        <ExperimentalAcrylicMaterial TintColor="#222222" MaterialOpacity="0.85" TintOpacity="1"/>
+      </ExperimentalAcrylicBorder.Material>
+
+      <TextBlock Text="PBO Viewer - Checksum" Margin="7" FontSize="14" FontWeight="Light"/>
+    </ExperimentalAcrylicBorder>
+
+    <StackPanel Margin="7,40,7,40">
+      <TextBlock FontSize="14" Text="{Binding ChecksumResult}" Margin="0,0,0,5" TextWrapping="Wrap"/>
+      <TextBox FontSize="14" Text="{Binding File}" IsReadOnly="True" AcceptsReturn="True" TextWrapping="Wrap" Margin="0,0,0,10"/>
+
+      <StackPanel>
+        <TextBlock FontSize="14" Text="{Binding SHA}" VerticalAlignment="Center" Margin="0,0,0,5"/>
+        <TextBox FontSize="14" Text="{Binding Checksum}" IsReadOnly="True" AcceptsReturn="True" TextWrapping="Wrap"/>
+      </StackPanel>
+    </StackPanel>
+  </Grid>
+  
+</FluentWindow>

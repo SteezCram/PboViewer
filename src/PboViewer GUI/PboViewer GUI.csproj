@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>PboViewer</AssemblyName>
     <RootNamespace>PboViewer</RootNamespace>
   </PropertyGroup>
@@ -14,13 +14,64 @@
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="0.9.12" />
-    <PackageReference Include="Avalonia.Desktop" Version="0.9.12" />
-    <PackageReference Include="Citrus.Avalonia" Version="1.2.6" />
+    <None Remove="App.xaml" />
+    <None Remove="Styles\Button.xaml" />
+    <None Remove="Styles\Icons\Material.xaml" />
+    <None Remove="Styles\SideBar.xaml" />
+    <None Remove="Views\EditorView.xaml" />
+    <None Remove="Views\HomeView.xaml" />
+    <None Remove="Windows\ChecksumWindow.xaml" />
+    <None Remove="Windows\PboViewerMainWindow.xaml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="PboViewerMainWindow.axaml.cs">
-      <DependentUpon>PboMakerMainWindow.axaml</DependentUpon>
+    <AvaloniaResource Include="Styles\Icons\Material.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaResource>
+    <AvaloniaResource Include="Styles\SideBar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AvaloniaXaml Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
+    <AvaloniaXaml Include="Views\EditorView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
+    <AvaloniaXaml Include="Views\HomeView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
+    <AvaloniaXaml Include="Windows\ChecksumWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
+    <AvaloniaXaml Include="Windows\PboViewerMainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
+  </ItemGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Styles\Button.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </AvaloniaResource>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="0.10.0" />
+    <PackageReference Include="Avalonia.Desktop" Version="0.10.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\EditorView.xaml.cs">
+      <DependentUpon>EditorView.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\HomeView.xaml.cs">
+      <DependentUpon>HomeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Windows\ChecksumWindow.xaml.cs">
+      <DependentUpon>ChecksumWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Windows\PboViewerMainWindow.xaml.cs">
+      <DependentUpon>PboViewerMainWindow.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 </Project>

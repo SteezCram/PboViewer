@@ -1,0 +1,72 @@
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\PboViewer.exe
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\PboViewer.deps.json
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\PboViewer.runtimeconfig.json
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\PboViewer.runtimeconfig.dev.json
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\PboViewer.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\ref\PboViewer.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\PboViewer.pdb
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Animation.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Base.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Controls.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.DesignerSupport.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.DesktopRuntime.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Dialogs.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Input.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Interactivity.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Layout.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Markup.Xaml.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Markup.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.MicroCom.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.OpenGL.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Styling.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Themes.Default.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Themes.Fluent.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Visuals.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Desktop.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.FreeDesktop.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Native.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Remote.Protocol.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Skia.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.Win32.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Avalonia.X11.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\HarfBuzzSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\JetBrains.Annotations.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\SkiaSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\System.Drawing.Common.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\System.Reactive.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\Tmds.DBus.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-arm64\native\av_libglesv2.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win7-x64\native\av_libglesv2.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win7-x86\native\av_libglesv2.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\osx\native\libAvaloniaNative.dylib
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\osx\native\libSkiaSharp.dylib
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-arm64\native\libSkiaSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-x64\native\libSkiaSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win-x86\native\libSkiaSharp.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-arm\native\libSkiaSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-arm64\native\libSkiaSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\linux-x64\native\libSkiaSharp.so
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.csprojAssemblyReference.cache
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.AssemblyInfoInputs.cache
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.AssemblyInfo.cs
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.csproj.CoreCompileInputs.cache
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.csproj.CopyComplete
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\ref\PboViewer.dll
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer.pdb
+G:\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\PboViewer GUI.genruntimeconfig.cache

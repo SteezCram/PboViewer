@@ -1,0 +1,10 @@
+﻿<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="PboViewer.App">
+    <Application.Styles>
+      <FluentTheme Mode="Dark"/>
+      <StyleInclude Source="/Styles/SideBar.xaml"/>
+      <StyleInclude Source="/Styles/Button.xaml"/>
+      <StyleInclude Source="/Styles/Icons/Material.xaml"/>
+    </Application.Styles>
+</Application>

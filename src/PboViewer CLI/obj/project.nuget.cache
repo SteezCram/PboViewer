@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bhIR2wYDb5g7o9/XR/v1ZSS221apiju6P9cu7ZW1am0n8e26cVi1SuE+4Krdg+CmO4aROmRjte7bwNsW70+Z6g==",
+  "dgSpecHash": "5lLsMXy9lqTUtjIKNcVlT+sCJTTuuVjgdg23E6WfMII4eq9BVSsuYv6mus+c6nLaor8Tt0kz4uuAGj+Q4/Q2CQ==",
   "success": true,
-  "projectFilePath": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
+  "projectFilePath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tcroi\\.nuget\\packages\\manyconsole\\2.0.1\\manyconsole.2.0.1.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\mono.options\\5.3.0\\mono.options.5.3.0.nupkg.sha512"

@@ -1,39 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj": {}
+    "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj": {}
   },
   "projects": {
-    "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj": {
+    "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
+        "projectUniqueName": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
         "projectName": "PboViewer",
-        "projectPath": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
+        "projectPath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
         "packagesPath": "C:\\Users\\tcroi\\.nuget\\packages\\",
-        "outputPath": "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\obj\\",
+        "outputPath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Microsoft\\Xamarin\\NuGet\\",
+          "G:\\Logiciels\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Developpement\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\NuGet.Config",
           "C:\\Users\\tcroi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/avalonia-ci/api/v2": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -44,20 +42,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Avalonia": {
               "target": "Package",
-              "version": "[0.9.12, )"
+              "version": "[0.10.0, )"
             },
             "Avalonia.Desktop": {
               "target": "Package",
-              "version": "[0.9.12, )"
-            },
-            "Citrus.Avalonia": {
-              "target": "Package",
-              "version": "[1.2.6, )"
+              "version": "[0.10.0, )"
             }
           },
           "imports": [
@@ -70,31 +64,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[3.1.9, 3.1.9]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[3.1.9, 3.1.9]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[3.1.9, 3.1.9]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "ubuntu-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
