@@ -6,7 +6,7 @@ The GUI is availble to all the platform.
 
 Here is a screenshot of the window: 
 
-![alt text](https://i.ibb.co/ZH0rBCK/Pbo-Viewer-GUI-dzf-ZWJWQld.png)
+![alt text](https://i.ibb.co/XDgpwTn/Pbo-Viewer-S4ywf-ENT6-M.png)
 
 ## CLI
 You have two command for the CLI:
