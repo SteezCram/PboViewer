@@ -1,0 +1,33 @@
+<FluentWindow xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="PboViewer.Windows.SettingsWindow"
+        Title="PBO Viewer - Settings"
+        Width="400" Height="250"
+        Background="{x:Null}">
+
+  <FluentWindow.Styles>
+    <Style Selector="TitleBar:fullscreen">
+      <Setter Property="Background" Value="White"/>
+    </Style>
+  </FluentWindow.Styles>
+
+  <Grid>
+    <ExperimentalAcrylicBorder IsHitTestVisible="False">
+      <ExperimentalAcrylicBorder.Material>
+        <ExperimentalAcrylicMaterial TintColor="#222222" MaterialOpacity="0.85" TintOpacity="1"/>
+      </ExperimentalAcrylicBorder.Material>
+
+      <TextBlock Name="Title" Margin="7" Text="PBO Viewer" FontSize="14" FontWeight="Light"/>
+    </ExperimentalAcrylicBorder>
+
+    <StackPanel Margin="10,40,10,10">
+      <TextBlock Text="Behavior settings:" FontSize="18" Margin="0,0,0,10"/>
+      <CheckBox Content="Open packed PBO in file explorer" IsChecked="{Binding PackedChecked}" Command="{Binding CheckPacked}"/>
+      <CheckBox Content="Operating system integration" IsVisible="{Binding HasSystemIntegration}" IsChecked="{Binding IntegrationChecked}" Command="{Binding CheckIntegration}"/>
+    </StackPanel>
+  </Grid>
+
+</FluentWindow>

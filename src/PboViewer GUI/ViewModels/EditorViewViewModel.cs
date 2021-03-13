@@ -52,6 +52,7 @@ namespace PboViewer.ViewModels
         public ICommand AddFolder { get; set; }
         public ICommand Checksum { get; set; }
         public ICommand PackPBO { get; set; }
+        public ICommand UnpackPBO { get; set; }
 
 
         private string _currentPath;
@@ -76,6 +77,7 @@ namespace PboViewer.ViewModels
                 if (HasPBO)
                     _pboPath = await Commands.PackPBO(_editorPath, _pboPath);
             });
+
             AddFolder = new RelayCommand(async() => { 
                 await Commands.AddFolder(_currentPath); 
                 DrawFolderItems(_currentPath); 
@@ -83,12 +85,18 @@ namespace PboViewer.ViewModels
                 if (HasPBO)
                     _pboPath = await Commands.PackPBO(_editorPath, _pboPath);
             });
+
             Checksum = new RelayCommand(async () => {
                 await Commands.Checksum(_pboPath); 
             });
+
             PackPBO = new RelayCommand(async() => {
                 _pboPath = await Commands.PackPBO(_editorPath, _pboPath); 
                 HasPBO = true; 
+            });
+
+            UnpackPBO = new RelayCommand(async() => {
+                await Commands.UnpackPBO(_pboPath);
             });
         }
 
@@ -138,7 +146,7 @@ namespace PboViewer.ViewModels
                 // Navigate throught the root directory
                 previousFolderListBoxItem.DoubleTapped += (sender, e) =>
                 {
-                    string? listBoxItemDirectoryPath = (string)((ListBoxItem)sender).Tag;
+                    string listBoxItemDirectoryPath = (string)((ListBoxItem)sender).Tag;
 
                     // If the directory path is a drive name
                     if (listBoxItemDirectoryPath is not null)
@@ -274,7 +282,7 @@ namespace PboViewer.ViewModels
                                     Margin = new Thickness(5, 0, 0, 0),
                                     MinWidth = 200,
                                 };
-                                editTextBox.KeyUp += async (sender, e) =>
+                                editTextBox.KeyUp += (sender, e) =>
                                 {
                                     if (e.Key != Avalonia.Input.Key.Enter)
                                         return;

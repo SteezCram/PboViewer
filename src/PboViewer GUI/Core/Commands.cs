@@ -160,7 +160,7 @@ namespace PboViewer.Core
         /// Open a folder into PBO Viewer
         /// </summary>
         /// <param name="window"></param>
-        public static async void OpenFolder()
+        public static async void OpenFolder(string directoryPath = null)
         {
             Window mainWindow = ((IClassicDesktopStyleApplicationLifetime)App.Current.ApplicationLifetime).MainWindow;
 
@@ -169,7 +169,7 @@ namespace PboViewer.Core
             };
 
             // Get the selected folder
-            string folderPath = await ofd.ShowAsync(mainWindow);
+            string folderPath = directoryPath is null ? await ofd.ShowAsync(mainWindow) : directoryPath;
 
             if (string.IsNullOrWhiteSpace(folderPath))
                 return;
@@ -187,7 +187,7 @@ namespace PboViewer.Core
         /// Open a PBO into PBO Viewer
         /// </summary>
         /// <param name="window"></param>
-        public static async void OpenPBO()
+        public static async void OpenPBO(string filePath = null)
         {
             Window mainWindow = ((IClassicDesktopStyleApplicationLifetime)App.Current.ApplicationLifetime).MainWindow;
 
@@ -200,14 +200,14 @@ namespace PboViewer.Core
                     new FileDialogFilter
                     {
                         Name = "PBO file",
-                        Extensions = new List<string>(new [] {
+                        Extensions = new List<string>(new[] {
                             "pbo"
                         })
                     },
                 })
             };
 
-            string[] fileSelected = await ofd.ShowAsync(mainWindow);
+            string[] fileSelected = filePath is null ? await ofd.ShowAsync(mainWindow) : new[] { filePath };
             if (fileSelected.Length == 0)
                 return;
 
@@ -267,14 +267,68 @@ namespace PboViewer.Core
 
             try
             {
-                if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
-                    Process.Start("explorer.exe", Path.GetDirectoryName(editorPath));
-                else
-                    Process.Start(Path.GetDirectoryName(editorPath));
+                if (Settings.PboViewerSettings.OpenPackedPboInFileExplorer) {
+                    if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                        Process.Start("explorer.exe", Path.GetDirectoryName(editorPath));
+                    else
+                        Process.Start(new ProcessStartInfo {
+                            FileName = Path.GetDirectoryName(editorPath),
+                            UseShellExecute = true,
+                        });
+                }
             }
             catch { }
 
             return filePath;
+        }
+
+        /// <summary>
+        /// Unpack a PBO to a folder
+        /// </summary>
+        /// 
+        /// <param name="pboFile">PBO file to unpack</param>
+        /// <param name="destinationFolder">Destination folder to unpack the content of the PBO</param>
+        /// 
+        /// <returns></returns>
+        public static async Task UnpackPBO(string pboFile, string destinationFolder = null)
+        {
+            Window mainWindow = ((IClassicDesktopStyleApplicationLifetime)App.Current.ApplicationLifetime).MainWindow;
+
+            OpenFolderDialog ofd = new OpenFolderDialog {
+                Title = "PBO Viewer | Choose a folder",
+            };
+
+            destinationFolder = destinationFolder is not null ? destinationFolder : await ofd.ShowAsync(mainWindow);
+            if (string.IsNullOrWhiteSpace(destinationFolder))
+                return;
+
+
+            await Task.Run(() =>
+            {
+                // If the file exists, delete it
+                if (Directory.Exists(Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile))))
+                    Directory.Delete(Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)), true);
+
+                // Pack the folder as a PBO
+                using PBOSharpClient pboSharpClient = new PBOSharpClient();
+                pboSharpClient.ExtractAll(pboFile, Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)));
+            });
+
+
+            try
+            {
+                if (Settings.PboViewerSettings.OpenPackedPboInFileExplorer)
+                {
+                    if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                        Process.Start("explorer.exe", Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)));
+                    else
+                        Process.Start(new ProcessStartInfo {
+                            FileName = Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)),
+                            UseShellExecute = true,
+                        });
+                }
+            }
+            catch { }
         }
 
         /// <summary>

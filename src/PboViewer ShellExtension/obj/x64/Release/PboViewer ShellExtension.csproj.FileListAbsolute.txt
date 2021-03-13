@@ -1,0 +1,11 @@
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\x64\Release\PboViewer_ShellExtension.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\x64\Release\PboViewer_ShellExtension.pdb
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\x64\Release\SharpShell.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\x64\Release\SharpShell.xml
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer ShellExtension.csprojAssemblyReference.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer ShellExtension.csproj.CoreCompileInputs.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer ShellExtension.csproj.CopyComplete
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer_ShellExtension.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer_ShellExtension.pdb
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer_ShellExtension.Resources.resources
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\x64\Release\PboViewer ShellExtension.csproj.GenerateResource.cache

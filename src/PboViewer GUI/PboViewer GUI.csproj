@@ -4,12 +4,22 @@
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>PboViewer</AssemblyName>
     <RootNamespace>PboViewer</RootNamespace>
+    <Platforms>AnyCPU;x64</Platforms>
+    <ApplicationIcon>Data\PBOViewer_Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DefineConstants>TRACE;DEBUG</DefineConstants>
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>TRACE</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <DefineConstants>TRACE</DefineConstants>
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
@@ -22,6 +32,8 @@
     <None Remove="Views\HomeView.xaml" />
     <None Remove="Windows\ChecksumWindow.xaml" />
     <None Remove="Windows\PboViewerMainWindow.xaml" />
+    <None Remove="Windows\ProgressWindow.xaml" />
+    <None Remove="Windows\SettingsWindow.xaml" />
   </ItemGroup>
   <ItemGroup>
     <AvaloniaResource Include="Styles\Icons\Material.xaml">
@@ -47,6 +59,12 @@
     <AvaloniaXaml Include="Windows\PboViewerMainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
     </AvaloniaXaml>
+    <AvaloniaXaml Include="Windows\ProgressWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
+    <AvaloniaXaml Include="Windows\SettingsWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </AvaloniaXaml>
   </ItemGroup>
   <ItemGroup>
     <AvaloniaResource Include="Styles\Button.xaml">
@@ -56,6 +74,8 @@
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="0.10.0" />
     <PackageReference Include="Avalonia.Desktop" Version="0.10.0" />
+    <PackageReference Include="Microsoft.Win32.Registry" Version="5.0.0" />
+    <PackageReference Include="System.Text.Json" Version="5.0.1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="App.xaml.cs">
@@ -73,5 +93,34 @@
     <Compile Update="Windows\PboViewerMainWindow.xaml.cs">
       <DependentUpon>PboViewerMainWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Windows\ProgressWindow.xaml.cs">
+      <DependentUpon>ProgressWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Windows\SettingsWindow.xaml.cs">
+      <DependentUpon>SettingsWindow.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Data\pbo_icon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="OS\Windows\contextMenu_uninstall.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OS\Windows\contextMenu_install.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OS\Windows\fileAssociation_install.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OS\Windows\fileAssociation_uninstall.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OS\Windows\integration_install.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="OS\Windows\integration_uninstall.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

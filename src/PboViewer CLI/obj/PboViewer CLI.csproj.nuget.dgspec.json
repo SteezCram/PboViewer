@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj": {}
+    "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj": {}
   },
   "projects": {
-    "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj": {
+    "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
+        "projectUniqueName": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
         "projectName": "PboViewer",
-        "projectPath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
+        "projectPath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\PboViewer CLI.csproj",
         "packagesPath": "C:\\Users\\tcroi\\.nuget\\packages\\",
-        "outputPath": "G:\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\obj\\",
+        "outputPath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer CLI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "G:\\Logiciels\\Microsoft\\Xamarin\\NuGet",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\tcroi\\AppData\\Roaming\\NuGet\\NuGet.Config",

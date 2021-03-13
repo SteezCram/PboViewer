@@ -5,7 +5,7 @@ using PBOSharp;
 using PBOSharp.Objects;
 using PboViewer.Core;
 using PboViewer.Views;
-//using PboViewer.Core;
+using PboViewer.Windows;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -33,12 +33,16 @@ namespace PboViewer.ViewModels
             }
         }
 
+        public ICommand OpenSettings { get; set; }
+
         private UserControl _child;
 
 
         public PboViewerMainWindowViewModel()
         {
             Child = new HomeView();
+
+            OpenSettings = new RelayCommand(() => new SettingsWindow().ShowDialog(((IClassicDesktopStyleApplicationLifetime)App.Current.ApplicationLifetime).MainWindow));
         }
     }
 }

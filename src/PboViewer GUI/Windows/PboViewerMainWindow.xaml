@@ -5,8 +5,9 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
 		    Width="800" Height="450"
 		    x:Class="PboViewer.Windows.PboViewerMainWindow"
-		    Title="Pbo Viewer"
-        Background="{x:Null}">
+		    Title="PBO Viewer"
+        Background="{x:Null}"
+        DragDrop.AllowDrop="True">
 
   <FluentWindow.Styles>
     <Style Selector="TitleBar:fullscreen">
@@ -19,9 +20,17 @@
       <ExperimentalAcrylicBorder.Material>
         <ExperimentalAcrylicMaterial TintColor="#222222" MaterialOpacity="0.85" TintOpacity="1"/>
       </ExperimentalAcrylicBorder.Material>
-      
-      <TextBlock Name="Title" Text="PBO Viewer" Margin="7" FontSize="14" FontWeight="Light"/>
+
+      <TextBlock Name="Title" Margin="7" Text="PBO Viewer" FontSize="14" FontWeight="Light"/>
     </ExperimentalAcrylicBorder>
+
+    <Button Classes="imageButton" Margin="0,0,140,0" HorizontalAlignment="Right" VerticalAlignment="Top"
+            Command="{Binding OpenSettings}">
+      <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+        <DrawingPresenter Height="18" Width="18" Drawing="{DynamicResource Material.Settings}" Margin="0,0,10,0"/>
+        <TextBlock Text="Settings" FontSize="14" FontWeight="Light"/>
+      </StackPanel>
+    </Button>
 
     <Border Margin="0,30,0,0" Child="{Binding Child}"/>
   </Grid>
