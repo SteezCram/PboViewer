@@ -10,6 +10,9 @@ assignees: SteezCram
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+**Operating system**
+Indicate your operating system. Tell if your enhancement is specific for an operating system or not.
+
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
