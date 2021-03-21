@@ -5,6 +5,17 @@ FOR %%I in ("%~dp0.") DO FOR %%J in ("%%~dpI.") DO SET mypath=%%~dpnxJ
 FOR %%I in ("%mypath%") DO FOR %%J in ("%%~dpI.") DO SET mypath=%%~dpnxJ
 echo %mypath%
 
+:: Delete PBO Manager registry stuff
+REG QUERY HKCR\.pbo >nul
+if %ERRORLEVEL% EQU 0 (
+	REG DELETE HKCR\.pbo /f
+)
+
+REG QUERY HKCR\PBOShellExt.FileContextMenuExt >nul
+if %ERRORLEVEL% EQU 0 (
+	REG DELETE HKCR\PBOShellExt.FileContextMenuExt /f
+)
+
 
 :: Install or not the file association
 REG QUERY HKCR\PBOViewer >nul
