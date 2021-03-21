@@ -6,13 +6,13 @@ The GUI is availble to all the platform.
 
 Here is a screenshot of the window: 
 
-![alt text](https://i.ibb.co/XDgpwTn/Pbo-Viewer-S4ywf-ENT6-M.png)
+![alt text](https://i.ibb.co/tJVMSpc/Pbo-Viewer-6ea-Ld-Xo-Mze.png)
 
 ### Operating system integration
 You can enable some system integration through the settings. The operating system integration works only in **Windows** now.
-You can use the right click menu to interact with both .pbo files and the folders as well to double click on .pbo files to open them in PBOViewer.
+You can use the right click menu to interact with both .pbo files and the folders as well to double click on .pbo files to open them in PBO Viewer.
 
-![alt text](https://i.ibb.co/KFXgC97/Pbo-Viewer-RVCsw-PIWR3.png)
+![alt text](https://i.ibb.co/t3MmsmC/Pbo-Viewer-Mc-Nb-MRXhbx.png)
 
 ## CLI
 You have two command for the CLI:
