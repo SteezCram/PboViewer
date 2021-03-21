@@ -25,6 +25,9 @@
 
     <StackPanel Margin="10,40,10,10">
       <TextBlock Text="Behavior settings:" FontSize="18" Margin="0,0,0,10"/>
+      <CheckBox Content="Keyboard navigation" IsChecked="{Binding KeyboardNavigationChecked}" Command="{Binding CheckKeyboardNavigation}" Margin="0,0,0,30"/>
+      
+      <TextBlock Text="Operating system settings:" FontSize="18" Margin="0,0,0,10"/>
       <CheckBox Content="Open packed PBO in file explorer" IsChecked="{Binding PackedChecked}" Command="{Binding CheckPacked}"/>
       <CheckBox Content="Operating system integration" IsVisible="{Binding HasSystemIntegration}" IsChecked="{Binding IntegrationChecked}" Command="{Binding CheckIntegration}"/>
     </StackPanel>

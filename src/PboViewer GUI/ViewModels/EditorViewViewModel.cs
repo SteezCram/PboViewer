@@ -101,11 +101,17 @@ namespace PboViewer.ViewModels
         }
 
 
+        /// <summary>
+        /// Draw folders item
+        /// </summary>
+        /// 
+        /// <param name="directoryPath">Directory path</param>
         public void DrawFolderItems(string directoryPath)
         {
             _currentPath = directoryPath;
             FolderItems = new ObservableCollection<ListBoxItem>();
 
+            // Set the geometry drawing to display the icon
             GeometryDrawing folderDrawing = ((Style)App.Current.Styles.ToArray()[3].Children[0].Children[0]).Resources["Material.Folder"] as GeometryDrawing;
             folderDrawing.Brush = Brushes.Wheat;
             GeometryDrawing extractDrawing = ((Style)App.Current.Styles.ToArray()[3].Children[0].Children[0]).Resources["Material.PackageDown"] as GeometryDrawing;
@@ -146,12 +152,15 @@ namespace PboViewer.ViewModels
                 // Navigate throught the root directory
                 previousFolderListBoxItem.DoubleTapped += (sender, e) =>
                 {
-                    string listBoxItemDirectoryPath = (string)((ListBoxItem)sender).Tag;
+                    string folderPath = (string)((ListBoxItem)sender).Tag;
 
                     // If the directory path is a drive name
-                    if (listBoxItemDirectoryPath is not null)
+                    if (folderPath is not null)
+                    {
+                        Navigation.NavigationSession.Navigate(folderPath);
                         // Display the folder item
-                        DrawFolderItems(listBoxItemDirectoryPath);
+                        DrawFolderItems(folderPath);
+                    }
                 };
                 //previousFolderListBoxItem.Tapped += (sender, e) => { FolderItemDetail.Child = null; };
                 
@@ -190,8 +199,11 @@ namespace PboViewer.ViewModels
                 // Navigate through directory
                 folderListBoxItem.DoubleTapped += (sender, e) => {
                     string folderPath = ((ListBoxItem)sender).Tag.ToString();
+                    Navigation.NavigationSession.Navigate(folderPath);
+
                     DrawFolderItems(folderPath);
                 };
+                // Set the context menu
                 folderListBoxItem.ContextMenu = new ContextMenu
                 {
                     Items = new List<MenuItem>
@@ -325,8 +337,14 @@ namespace PboViewer.ViewModels
             DrawFileItems(directoryPath);
         }
 
+        /// <summary>
+        /// Draw file items
+        /// </summary>
+        /// 
+        /// <param name="directoryPath">Directory path to get the files</param>
         private void DrawFileItems(string directoryPath)
         {
+            // Set the geometry drawing to display the icon
             GeometryDrawing fileDrawing = ((Style)App.Current.Styles.ToArray()[3].Children[0].Children[0]).Resources["Material.File"] as GeometryDrawing;
             GeometryDrawing openDrawing = ((Style)App.Current.Styles.ToArray()[3].Children[0].Children[0]).Resources["Material.OpenInNew"] as GeometryDrawing;
             openDrawing.Brush = Brushes.DeepSkyBlue;
@@ -372,6 +390,7 @@ namespace PboViewer.ViewModels
                 fileListBoxItem.DoubleTapped += (sender, e) => {
                     Commands.StartFile(((ListBoxItem)sender).Tag.ToString());
                 };
+                // Set the context menu
                 fileListBoxItem.ContextMenu = new ContextMenu
                 {
                     Items = new List<MenuItem>

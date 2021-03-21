@@ -15,6 +15,10 @@ namespace PboViewer.Core
     public struct PboViewerSettings
     {
         /// <summary>
+        /// Enable the keyboard navigation in the list box
+        /// </summary>
+        public bool KeyboardNavigation { get; set; }
+        /// <summary>
         /// If the PBO is open after an extract
         /// </summary>
         public bool OpenPackedPboInFileExplorer { get; set; }

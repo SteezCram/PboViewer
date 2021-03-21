@@ -78,3 +78,5 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Release\net5.0
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Release\net5.0\OS\Windows\fileAssociation_uninstall.bat
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Release\net5.0\OS\Windows\integration_install.bat
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Release\net5.0\OS\Windows\integration_uninstall.bat
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Release\net5.0\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Release\net5.0\PboViewerLib.pdb

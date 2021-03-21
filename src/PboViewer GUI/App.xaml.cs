@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 
 namespace PboViewer
 {
@@ -24,6 +25,7 @@ namespace PboViewer
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
                 Settings.LoadSettings();
+                Navigation.NavigationSession = new Navigation();
                 desktop.MainWindow = new PboViewerMainWindow();
 
                 switch (desktop.Args.Length)

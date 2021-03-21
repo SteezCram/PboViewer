@@ -1,5 +1,5 @@
 ﻿using ManyConsole;
-using PBOSharp;
+using PboViewer_Lib;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -38,9 +38,8 @@ namespace PboViewer.Commands
                     Directory.Delete(Path.Combine(Path.GetDirectoryName(PboPath), Path.GetFileNameWithoutExtension(PboPath)), true);
 
                 // Pack the folder as a PBO
-                PBOSharpClient pboSharpClient = new PBOSharpClient();
-                pboSharpClient.ExtractAll(PboPath, Path.Combine(Path.GetDirectoryName(PboPath), Path.GetFileNameWithoutExtension(PboPath)));
-                pboSharpClient.Dispose();
+                using PBOSharpClient pboSharpClient = new PBOSharpClient(PboPath);
+                pboSharpClient.ExtractAll(Path.Combine(Path.GetDirectoryName(PboPath), Path.GetFileNameWithoutExtension(PboPath)));
 
                 Console.Out.WriteLine($"Pbo successful unpack at the path: {Path.Combine(Path.GetDirectoryName(PboPath), Path.GetFileNameWithoutExtension(PboPath))}");
 

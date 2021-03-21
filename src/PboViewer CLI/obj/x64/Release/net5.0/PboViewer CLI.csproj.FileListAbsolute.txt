@@ -17,3 +17,5 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer CLI\obj\x64\Release\net5.0
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer CLI\obj\x64\Release\net5.0\ref\PboViewer.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer CLI\obj\x64\Release\net5.0\PboViewer.pdb
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer CLI\obj\x64\Release\net5.0\PboViewer CLI.genruntimeconfig.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer CLI\bin\x64\Release\net5.0\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer CLI\bin\x64\Release\net5.0\PboViewerLib.pdb

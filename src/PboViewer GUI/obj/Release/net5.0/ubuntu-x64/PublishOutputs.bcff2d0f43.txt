@@ -225,3 +225,5 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\ubuntu\System.
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\ubuntu\Tmds.DBus.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\ubuntu\libHarfBuzzSharp.so
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\ubuntu\libSkiaSharp.so
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\ubuntu\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\ubuntu\PboViewerLib.pdb

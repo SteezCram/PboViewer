@@ -22,6 +22,49 @@
         "runtime": {
           "lib/netstandard1.3/Mono.Options.dll": {}
         }
+      },
+      "PboViewerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        }
+      }
+    },
+    "net5.0/linux-x64": {
+      "ManyConsole/2.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Mono.Options": "5.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/ManyConsole.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManyConsole.dll": {}
+        }
+      },
+      "Mono.Options/5.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/Mono.Options.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Mono.Options.dll": {}
+        }
+      },
+      "PboViewerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        }
       }
     }
   },
@@ -60,11 +103,17 @@
         "mono.options.5.3.0.nupkg.sha512",
         "mono.options.nuspec"
       ]
+    },
+    "PboViewerLib/1.0.0": {
+      "type": "project",
+      "path": "../PboViewer DLL/PboViewer DLL.csproj",
+      "msbuildProject": "../PboViewer DLL/PboViewer DLL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ManyConsole >= 2.0.1"
+      "ManyConsole >= 2.0.1",
+      "PboViewerLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -98,7 +147,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer DLL\\PboViewer DLL.csproj": {
+              "projectPath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer DLL\\PboViewer DLL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -126,12 +179,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+            "version": "[5.0.2, 5.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[5.0.2, 5.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+            "version": "[5.0.2, 5.0.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
       }
     }
   }

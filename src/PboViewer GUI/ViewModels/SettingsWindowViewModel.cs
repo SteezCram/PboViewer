@@ -18,6 +18,19 @@ namespace PboViewer.ViewModels
             get => OperatingSystem.IsWindows();
         }
 
+        public bool KeyboardNavigationChecked
+        {
+            get => _keyboardNavigationChecked;
+            set
+            {
+                if (value != _keyboardNavigationChecked)
+                {
+                    _keyboardNavigationChecked = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
         public bool PackedChecked
         {
             get => _packedChecked;
@@ -45,18 +58,31 @@ namespace PboViewer.ViewModels
         }
 
         
+        public ICommand CheckKeyboardNavigation { get; set; }
         public ICommand CheckPacked { get; set; }
         public ICommand CheckIntegration { get; set; }
 
 
+        private bool _keyboardNavigationChecked;
         private bool _packedChecked;
         private bool _integrationChecked;
 
 
         public SettingsWindowViewModel()
         {
+            KeyboardNavigationChecked = Settings.PboViewerSettings.KeyboardNavigation;
             PackedChecked = Settings.PboViewerSettings.OpenPackedPboInFileExplorer;
             IntegrationChecked = Settings.PboViewerSettings.OSIntegration;
+
+
+            CheckKeyboardNavigation = new RelayCommand(() =>
+            {
+                // Update the properties
+                Settings.PboViewerSettings.KeyboardNavigation = !Settings.PboViewerSettings.KeyboardNavigation;
+                PackedChecked = Settings.PboViewerSettings.KeyboardNavigation;
+
+                Settings.SaveSettings();
+            });
 
 
             CheckPacked = new RelayCommand(() =>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9BOfo1plxfDfgsUlAKOhrLvkKkCBHmtBK1mOasE6l2IUOieXGwWmf0eBQS4j1RBuxpbUQ3KKzMGOLurZkoz9Nw==",
+  "dgSpecHash": "qfAIAiwtqRNnIdavbomlUT6a3V4TO5aPCAAJAx45XyjFC+E96bnmx3pKJN3hq3Jq8r1FhBSA2wLjUliKsJxc+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
   "expectedPackageFiles": [
@@ -39,9 +39,9 @@
     "C:\\Users\\tcroi\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\tmds.dbus\\0.9.0\\tmds.dbus.0.9.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.3\\microsoft.netcore.app.runtime.linux-x64.5.0.3.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.3.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.3\\microsoft.netcore.app.host.linux-x64.5.0.3.nupkg.sha512"
+    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.2\\microsoft.netcore.app.runtime.linux-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.2\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.2\\microsoft.netcore.app.host.linux-x64.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }

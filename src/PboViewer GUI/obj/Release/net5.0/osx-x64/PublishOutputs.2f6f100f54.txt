@@ -227,3 +227,5 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\macos\Tmds.DBu
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\macos\libAvaloniaNative.dylib
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\macos\libHarfBuzzSharp.dylib
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\macos\libSkiaSharp.dylib
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\macos\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\macos\PboViewerLib.pdb

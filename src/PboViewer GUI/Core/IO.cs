@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace PboViewer.Core
 {
+    /// <summary>
+    /// Helper IO class
+    /// </summary>
     public class IO
     {
         /// <summary>

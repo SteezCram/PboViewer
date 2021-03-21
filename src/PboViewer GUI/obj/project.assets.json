@@ -521,6 +521,16 @@
         "runtime": {
           "lib/netstandard2.0/Tmds.DBus.dll": {}
         }
+      },
+      "PboViewerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        }
       }
     },
     "net5.0/ubuntu-x64": {
@@ -967,6 +977,16 @@
         },
         "runtime": {
           "lib/netstandard2.0/Tmds.DBus.dll": {}
+        }
+      },
+      "PboViewerLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PboViewerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PboViewerLib.dll": {}
         }
       }
     }
@@ -1452,6 +1472,7 @@
       "path": "runtime.native.system/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2162,6 +2183,11 @@
         "tmds.dbus.0.9.0.nupkg.sha512",
         "tmds.dbus.nuspec"
       ]
+    },
+    "PboViewerLib/1.0.0": {
+      "type": "project",
+      "path": "../PboViewer DLL/PboViewer DLL.csproj",
+      "msbuildProject": "../PboViewer DLL/PboViewer DLL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2169,6 +2195,7 @@
       "Avalonia >= 0.10.0",
       "Avalonia.Desktop >= 0.10.0",
       "Microsoft.Win32.Registry >= 5.0.0",
+      "PboViewerLib >= 1.0.0",
       "System.Text.Json >= 5.0.1"
     ]
   },
@@ -2205,7 +2232,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer DLL\\PboViewer DLL.csproj": {
+              "projectPath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer DLL\\PboViewer DLL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -2248,15 +2279,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-            "version": "[5.0.3, 5.0.3]"
+            "version": "[5.0.2, 5.0.2]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[5.0.3, 5.0.3]"
+            "version": "[5.0.2, 5.0.2]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-            "version": "[5.0.3, 5.0.3]"
+            "version": "[5.0.2, 5.0.2]"
           }
         ],
         "frameworkReferences": {
@@ -2264,7 +2295,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

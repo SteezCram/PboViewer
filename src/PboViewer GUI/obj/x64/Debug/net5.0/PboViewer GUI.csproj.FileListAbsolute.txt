@@ -61,10 +61,6 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\r
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\runtimes\linux-x64\native\libSkiaSharp.so
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\PboViewer_ShellExtension.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\SharpShell.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\PboViewer_ShellExtension.pdb
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\SharpShell.xml
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\x64\Debug\net5.0\PboViewer GUI.csprojAssemblyReference.cache
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\x64\Debug\net5.0\PboViewer GUI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\x64\Debug\net5.0\PboViewer GUI.AssemblyInfoInputs.cache
@@ -82,3 +78,5 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\O
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\OS\Windows\integration_install.bat
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\OS\Windows\integration_uninstall.bat
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\Data\pbo_icon.ico
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\x64\Debug\net5.0\PboViewerLib.pdb

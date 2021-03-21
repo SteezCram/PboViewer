@@ -54,6 +54,7 @@
       </Button>
     </StackPanel>
 
-    <ListBox Grid.Row="1" VirtualizationMode="None" Items="{Binding FolderItems}"/>
+    <ListBox Grid.Row="1" VirtualizationMode="None" Items="{Binding FolderItems}" 
+             LayoutUpdated="ListBox_LayoutUpdated" KeyUp="ListBox_KeyUp"/>
   </Grid>
 </UserControl>

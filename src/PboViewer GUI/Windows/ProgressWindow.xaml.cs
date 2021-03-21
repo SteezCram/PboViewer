@@ -26,6 +26,7 @@ namespace PboViewer.Windows
         {
             if (operation[1] == 'e')
             {
+                // Display the operation
                 Title.Text = "PBO Viewer - Extracting";
                 OperationTextBlock.Text = $"Extracting...";
                 OperationDetailTextBlock.Text = $"{itemPath} to {Path.Combine(destinationPath, Path.GetFileNameWithoutExtension(itemPath))}";
@@ -34,6 +35,7 @@ namespace PboViewer.Windows
             }
             else
             {
+                // Display the operation
                 Title.Text = "PBO Viewer - Packing";
                 OperationTextBlock.Text = $"Packing...";
                 OperationDetailTextBlock.Text = $"{itemPath} to {destinationPath}";
@@ -42,6 +44,7 @@ namespace PboViewer.Windows
             }
 
 
+            // Shutdown the application
             ((IClassicDesktopStyleApplicationLifetime)App.Current.ApplicationLifetime).Shutdown();
         }
 
@@ -49,6 +52,7 @@ namespace PboViewer.Windows
         {
             AvaloniaXamlLoader.Load(this);
 
+            // Set the properties
             Title = this.FindControl<TextBlock>("Title");
             OperationTextBlock = this.FindControl<TextBlock>("OperationTextBlock");
             OperationDetailTextBlock = this.FindControl<TextBlock>("OperationDetailTextBlock");

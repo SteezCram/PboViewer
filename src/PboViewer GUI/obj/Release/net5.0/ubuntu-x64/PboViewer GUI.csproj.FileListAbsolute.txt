@@ -469,3 +469,5 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\ubu
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\ubuntu-x64\PboViewer GUI.csproj.CoreCompileInputs.cache
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\ubuntu-x64\PboViewer GUI.csproj.CopyComplete
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\ubuntu-x64\PboViewer GUI.genruntimeconfig.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\ubuntu-x64\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\ubuntu-x64\PboViewerLib.pdb

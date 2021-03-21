@@ -534,7 +534,6 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\hostfxr.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\hostpolicy.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\mscordaccore.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\mscordaccore_amd64_amd64_5.0.321.7212.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\mscordbi.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\mscorrc.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\ucrtbase.dll
@@ -545,3 +544,6 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\win
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\win-x64\PboViewer GUI.csproj.CoreCompileInputs.cache
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\win-x64\PboViewer GUI.csproj.CopyComplete
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\obj\Release\net5.0\win-x64\PboViewer GUI.genruntimeconfig.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\mscordaccore_amd64_amd64_5.0.220.61120.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\bin\Release\net5.0\win-x64\PboViewerLib.pdb

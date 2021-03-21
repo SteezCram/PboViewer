@@ -1,0 +1,12 @@
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\bin\Debug\net5.0\PboViewerLib.deps.json
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\bin\Debug\net5.0\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\bin\Debug\net5.0\ref\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\bin\Debug\net5.0\PboViewerLib.pdb
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewer DLL.csprojAssemblyReference.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewer DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewer DLL.AssemblyInfoInputs.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewer DLL.AssemblyInfo.cs
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewer DLL.csproj.CoreCompileInputs.cache
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\ref\PboViewerLib.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer DLL\obj\Debug\net5.0\PboViewerLib.pdb

@@ -1,6 +1,6 @@
 ﻿using Avalonia.Controls;
 using Avalonia.Controls.ApplicationLifetimes;
-using PBOSharp;
+using PboViewer_Lib;
 using PboViewer.ViewModels;
 using PboViewer.Views;
 using PboViewer.Windows;
@@ -16,6 +16,9 @@ using System.Threading.Tasks;
 
 namespace PboViewer.Core
 {
+    /// <summary>
+    /// Main commands
+    /// </summary>
     public class Commands
     {
         /// <summary>
@@ -257,7 +260,7 @@ namespace PboViewer.Core
                     File.Delete(filePath);
 
                 // Pack the folder as a PBO
-                using PBOSharpClient pboSharpClient = new PBOSharpClient();
+                using PBOSharpClient pboSharpClient = new PBOSharpClient(editorPath);
                 pboSharpClient.PackPBO(editorPath, Path.GetDirectoryName(filePath), Path.GetFileName(filePath));
             });
 
@@ -310,8 +313,8 @@ namespace PboViewer.Core
                     Directory.Delete(Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)), true);
 
                 // Pack the folder as a PBO
-                using PBOSharpClient pboSharpClient = new PBOSharpClient();
-                pboSharpClient.ExtractAll(pboFile, Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)));
+                using PBOSharpClient pboSharpClient = new PBOSharpClient(pboFile);
+                pboSharpClient.ExtractAll(Path.Combine(destinationFolder, Path.GetFileNameWithoutExtension(pboFile)));
             });
 
 

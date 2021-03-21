@@ -1,8 +1,8 @@
 ﻿using Avalonia.Controls;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Media;
-using PBOSharp;
-using PBOSharp.Objects;
+using PboViewer_Lib;
+using PboViewer_Lib.Objects;
 using PboViewer.Core;
 using PboViewer.Views;
 using PboViewer.Windows;

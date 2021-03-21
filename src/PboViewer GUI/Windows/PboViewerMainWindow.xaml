@@ -24,7 +24,7 @@
       <TextBlock Name="Title" Margin="7" Text="PBO Viewer" FontSize="14" FontWeight="Light"/>
     </ExperimentalAcrylicBorder>
 
-    <Button Classes="imageButton" Margin="0,0,140,0" HorizontalAlignment="Right" VerticalAlignment="Top"
+    <Button Name="SettingsButton" Classes="imageButton" Margin="0,0,140,0" HorizontalAlignment="Right" VerticalAlignment="Top"
             Command="{Binding OpenSettings}">
       <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
         <DrawingPresenter Height="18" Width="18" Drawing="{DynamicResource Material.Settings}" Margin="0,0,10,0"/>

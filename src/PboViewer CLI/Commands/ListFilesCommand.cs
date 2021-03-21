@@ -1,6 +1,6 @@
 ﻿using ManyConsole;
-using PBOSharp;
-using PBOSharp.Objects;
+using PboViewer_Lib;
+using PboViewer_Lib.Objects;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -32,9 +32,8 @@ namespace PboViewer.Commands
             try
             {
                 // Pack the folder as a PBO
-                PBOSharpClient pboSharpClient = new PBOSharpClient();
-                PBO currentPbo = pboSharpClient.AnalyzePBO(PboPath);
-                pboSharpClient.Dispose();
+                using PBOSharpClient pboSharpClient = new PBOSharpClient(PboPath);
+                PBO currentPbo = pboSharpClient.AnalyzePBO();
 
                 currentPbo.Files.ForEach(x => Console.Out.WriteLine($"Path: {x.FileName}, Size: {x.OriginalSize}, Data size: {x.DataSize}, Timestamp: {x.Timestamp}, Packing method: {x.PackingMethod}"));
 
