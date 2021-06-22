@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PboViewer")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Thomas CROIZET \"Steez\"")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Crossplatform PBO packer.")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.4.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.4.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PboViewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PboViewer")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.4.1.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "git://github.com/SteezCram/PboViewer/")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 

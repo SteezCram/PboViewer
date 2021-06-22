@@ -26,11 +26,13 @@ namespace PboViewer
             {
                 Settings.LoadSettings();
                 Navigation.NavigationSession = new Navigation();
-                desktop.MainWindow = new PboViewerMainWindow();
 
                 switch (desktop.Args.Length)
                 {
                     case 1:
+                        desktop.MainWindow = new PboViewerMainWindow();
+                        desktop.MainWindow.Show();
+
                         // Open the file
                         if (Path.GetExtension(desktop.Args[0]) == ".pbo")
                             Commands.OpenPBO(desktop.Args[0]);
@@ -43,35 +45,38 @@ namespace PboViewer
 
                     case 2:
                         ProgressWindow progressWindow = new ProgressWindow();
+                        desktop.MainWindow = progressWindow;
+                        desktop.MainWindow.Show();
 
                         switch (desktop.Args[1])
                         {
                             // Extract here
                             case "-eh":
-                                desktop.MainWindow = progressWindow;
                                 progressWindow.Operation(desktop.Args[1], desktop.Args[0], Path.GetDirectoryName(desktop.Args[0]));
                                 break;
 
                             // Extract to
                             case "-et":
-                                desktop.MainWindow = progressWindow;
                                 progressWindow.Operation(desktop.Args[1], desktop.Args[0]);
                                 break;
 
                             // Pack here
                             case "-ph":
-                                desktop.MainWindow = progressWindow;
                                 progressWindow.Operation(desktop.Args[1], desktop.Args[0], Path.Combine(Path.GetDirectoryName(desktop.Args[0]), $"{Path.GetFileName(desktop.Args[0])}.pbo"));
                                 break;
 
                             // Pack to
                             case "-pt":
-                                desktop.MainWindow = progressWindow;
                                 progressWindow.Operation(desktop.Args[1], desktop.Args[0]);
                                 break;
                         }
 
                         base.OnFrameworkInitializationCompleted();
+                        break;
+
+                    default:
+                        desktop.MainWindow = new PboViewerMainWindow();
+                        desktop.MainWindow.Show();
                         break;
                 }
             }

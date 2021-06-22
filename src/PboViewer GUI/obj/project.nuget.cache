@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qfAIAiwtqRNnIdavbomlUT6a3V4TO5aPCAAJAx45XyjFC+E96bnmx3pKJN3hq3Jq8r1FhBSA2wLjUliKsJxc+g==",
+  "dgSpecHash": "XV+JJ7M+AxYH2I2nCNEI0Ri2uMaFFYUaqNcKZdkqJEc3zFOpIFSVvyjqGcyOng9sUFrgbg3m4mjlg39TG6Swug==",
   "success": true,
   "projectFilePath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
   "expectedPackageFiles": [
@@ -20,16 +20,12 @@
     "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\runtime.any.system.runtime\\4.1.0\\runtime.any.system.runtime.4.1.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\runtime.unix.system.private.uri\\4.0.1\\runtime.unix.system.private.uri.4.0.1.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.80.2\\skiasharp.nativeassets.linux.2.80.2.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\system.private.uri\\4.0.1\\system.private.uri.4.0.1.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
@@ -38,10 +34,7 @@
     "C:\\Users\\tcroi\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
     "C:\\Users\\tcroi\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\tmds.dbus\\0.9.0\\tmds.dbus.0.9.0.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.2\\microsoft.netcore.app.runtime.linux-x64.5.0.2.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.2\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.2.nupkg.sha512",
-    "C:\\Users\\tcroi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.2\\microsoft.netcore.app.host.linux-x64.5.0.2.nupkg.sha512"
+    "C:\\Users\\tcroi\\.nuget\\packages\\tmds.dbus\\0.9.0\\tmds.dbus.0.9.0.nupkg.sha512"
   ],
   "logs": []
 }

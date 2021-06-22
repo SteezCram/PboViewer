@@ -6,6 +6,12 @@
     <RootNamespace>PboViewer</RootNamespace>
     <Platforms>AnyCPU;x64</Platforms>
     <ApplicationIcon>Data\PBOViewer_Icon.ico</ApplicationIcon>
+    <Version>1.4.1</Version>
+    <Description>Crossplatform PBO packer.</Description>
+    <Authors>Thomas CROIZET "Steez"</Authors>
+    <PackageProjectUrl>https://github.com/SteezCram/PboViewer</PackageProjectUrl>
+    <RepositoryUrl>git://github.com/SteezCram/PboViewer/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DefineConstants>TRACE;DEBUG</DefineConstants>

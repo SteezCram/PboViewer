@@ -67,7 +67,10 @@ namespace PboViewer.ViewModels
             _editorPath = editorPath;
             _pboPath = pboPath;
             if (pboPath is not null)
+            {
                 HasPBO = true;
+                IO.Watch(_editorPath, _pboPath);
+            }
 
 
             AddFile = new RelayCommand(async() => { 
@@ -91,8 +94,10 @@ namespace PboViewer.ViewModels
             });
 
             PackPBO = new RelayCommand(async() => {
-                _pboPath = await Commands.PackPBO(_editorPath, _pboPath); 
-                HasPBO = true; 
+                _pboPath = await Commands.PackPBO(_editorPath, _pboPath);
+
+                HasPBO = true;
+                IO.Watch(_editorPath, _pboPath);
             });
 
             UnpackPBO = new RelayCommand(async() => {

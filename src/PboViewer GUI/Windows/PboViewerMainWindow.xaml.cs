@@ -24,6 +24,8 @@ namespace PboViewer.Windows
 #if DEBUG
             //this.AttachDevTools();
 #endif
+
+            
         }
 
         private void InitializeComponent()
@@ -50,6 +52,8 @@ namespace PboViewer.Windows
         /// <param name="e"></param>
         private void PboViewerMainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
+            IO.Unwatch();
+
             if (((PboViewerMainWindowViewModel)DataContext).Child is not EditorView)
                 return;
 

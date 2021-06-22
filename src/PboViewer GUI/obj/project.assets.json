@@ -532,463 +532,6 @@
           "bin/placeholder/PboViewerLib.dll": {}
         }
       }
-    },
-    "net5.0/ubuntu-x64": {
-      "Avalonia/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia.Remote.Protocol": "0.10.0",
-          "JetBrains.Annotations": "10.3.0",
-          "System.ComponentModel.Annotations": "4.5.0",
-          "System.Memory": "4.5.3",
-          "System.Reactive": "5.0.0",
-          "System.Runtime.CompilerServices.Unsafe": "4.6.0",
-          "System.ValueTuple": "4.5.0"
-        },
-        "compile": {
-          "lib/netcoreapp2.0/Avalonia.Animation.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Base.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Controls.dll": {},
-          "lib/netcoreapp2.0/Avalonia.DesignerSupport.dll": {},
-          "lib/netcoreapp2.0/Avalonia.DesktopRuntime.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Dialogs.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Input.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Interactivity.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Layout.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Markup.Xaml.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Markup.dll": {},
-          "lib/netcoreapp2.0/Avalonia.MicroCom.dll": {},
-          "lib/netcoreapp2.0/Avalonia.OpenGL.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Styling.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Themes.Default.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Themes.Fluent.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Visuals.dll": {},
-          "lib/netcoreapp2.0/Avalonia.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/Avalonia.Animation.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Base.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Controls.dll": {},
-          "lib/netcoreapp2.0/Avalonia.DesignerSupport.dll": {},
-          "lib/netcoreapp2.0/Avalonia.DesktopRuntime.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Dialogs.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Input.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Interactivity.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Layout.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Markup.Xaml.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Markup.dll": {},
-          "lib/netcoreapp2.0/Avalonia.MicroCom.dll": {},
-          "lib/netcoreapp2.0/Avalonia.OpenGL.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Styling.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Themes.Default.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Themes.Fluent.dll": {},
-          "lib/netcoreapp2.0/Avalonia.Visuals.dll": {},
-          "lib/netcoreapp2.0/Avalonia.dll": {}
-        },
-        "build": {
-          "buildTransitive/Avalonia.props": {},
-          "buildTransitive/Avalonia.targets": {}
-        }
-      },
-      "Avalonia.Angle.Windows.Natives/2.1.0.2020091801": {
-        "type": "package"
-      },
-      "Avalonia.Desktop/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia": "0.10.0",
-          "Avalonia.Native": "0.10.0",
-          "Avalonia.Skia": "0.10.0",
-          "Avalonia.Win32": "0.10.0",
-          "Avalonia.X11": "0.10.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Avalonia.Desktop.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.Desktop.dll": {}
-        }
-      },
-      "Avalonia.FreeDesktop/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia": "0.10.0",
-          "Tmds.DBus": "0.9.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Avalonia.FreeDesktop.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.FreeDesktop.dll": {}
-        }
-      },
-      "Avalonia.Native/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia": "0.10.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Avalonia.Native.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.Native.dll": {}
-        }
-      },
-      "Avalonia.Remote.Protocol/0.10.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Avalonia.Remote.Protocol.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.Remote.Protocol.dll": {}
-        }
-      },
-      "Avalonia.Skia/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia": "0.10.0",
-          "HarfBuzzSharp": "2.6.1.7",
-          "HarfBuzzSharp.NativeAssets.Linux": "2.6.1.7",
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.NativeAssets.Linux": "2.80.2"
-        },
-        "compile": {
-          "lib/netstandard2.0/Avalonia.Skia.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.Skia.dll": {}
-        }
-      },
-      "Avalonia.Win32/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia": "0.10.0",
-          "Avalonia.Angle.Windows.Natives": "2.1.0.2020091801",
-          "System.Drawing.Common": "4.5.0",
-          "System.Numerics.Vectors": "4.5.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Avalonia.Win32.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.Win32.dll": {}
-        }
-      },
-      "Avalonia.X11/0.10.0": {
-        "type": "package",
-        "dependencies": {
-          "Avalonia": "0.10.0",
-          "Avalonia.FreeDesktop": "0.10.0",
-          "Avalonia.Skia": "0.10.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Avalonia.X11.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Avalonia.X11.dll": {}
-        }
-      },
-      "HarfBuzzSharp/2.6.1.7": {
-        "type": "package",
-        "dependencies": {
-          "System.Memory": "4.5.3"
-        },
-        "compile": {
-          "lib/netstandard2.0/HarfBuzzSharp.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/HarfBuzzSharp.dll": {}
-        }
-      },
-      "HarfBuzzSharp.NativeAssets.Linux/2.6.1.7": {
-        "type": "package",
-        "dependencies": {
-          "HarfBuzzSharp": "2.6.1.7"
-        },
-        "compile": {
-          "lib/netstandard1.3/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/_._": {}
-        },
-        "native": {
-          "runtimes/linux-x64/native/libHarfBuzzSharp.so": {}
-        }
-      },
-      "JetBrains.Annotations/10.3.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Runtime": "4.1.0"
-        },
-        "compile": {
-          "lib/netstandard1.0/JetBrains.Annotations.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/JetBrains.Annotations.dll": {}
-        }
-      },
-      "Microsoft.NETCore.Platforms/5.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/_._": {}
-        }
-      },
-      "Microsoft.NETCore.Targets/1.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/_._": {}
-        }
-      },
-      "Microsoft.Win32.Registry/5.0.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Security.AccessControl": "5.0.0",
-          "System.Security.Principal.Windows": "5.0.0"
-        },
-        "compile": {
-          "ref/netstandard2.0/Microsoft.Win32.Registry.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {}
-        }
-      },
-      "Microsoft.Win32.SystemEvents/4.5.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.0.0"
-        },
-        "compile": {
-          "ref/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {}
-        }
-      },
-      "runtime.any.System.Runtime/4.1.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Private.Uri": "4.0.1"
-        },
-        "compile": {
-          "ref/netstandard/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.5/System.Runtime.dll": {}
-        }
-      },
-      "runtime.native.System/4.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.0.1",
-          "Microsoft.NETCore.Targets": "1.0.1"
-        },
-        "compile": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/_._": {}
-        }
-      },
-      "runtime.unix.System.Private.Uri/4.0.1": {
-        "type": "package",
-        "dependencies": {
-          "runtime.native.System": "4.0.0"
-        },
-        "compile": {
-          "ref/netstandard/_._": {}
-        },
-        "runtime": {
-          "runtimes/unix/lib/netstandard1.0/System.Private.Uri.dll": {}
-        }
-      },
-      "SkiaSharp/2.80.2": {
-        "type": "package",
-        "dependencies": {
-          "System.Memory": "4.5.3"
-        },
-        "compile": {
-          "lib/netstandard2.0/SkiaSharp.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/SkiaSharp.dll": {}
-        }
-      },
-      "SkiaSharp.NativeAssets.Linux/2.80.2": {
-        "type": "package",
-        "dependencies": {
-          "SkiaSharp": "2.80.2"
-        },
-        "compile": {
-          "lib/netstandard1.3/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/_._": {}
-        },
-        "native": {
-          "runtimes/linux-x64/native/libSkiaSharp.so": {}
-        }
-      },
-      "System.ComponentModel.Annotations/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
-      },
-      "System.Drawing.Common/4.5.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.0.0",
-          "Microsoft.Win32.SystemEvents": "4.5.0"
-        },
-        "compile": {
-          "ref/netstandard2.0/System.Drawing.Common.dll": {}
-        },
-        "runtime": {
-          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {}
-        }
-      },
-      "System.Memory/4.5.3": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.1/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.1/_._": {}
-        }
-      },
-      "System.Numerics.Vectors/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
-      },
-      "System.Private.Uri/4.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.0.1",
-          "Microsoft.NETCore.Targets": "1.0.1",
-          "runtime.unix.System.Private.Uri": "4.0.1"
-        },
-        "compile": {
-          "ref/netstandard/_._": {}
-        }
-      },
-      "System.Reactive/5.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/System.Reactive.dll": {}
-        },
-        "runtime": {
-          "lib/net5.0/System.Reactive.dll": {}
-        },
-        "build": {
-          "buildTransitive/net5.0/_._": {}
-        }
-      },
-      "System.Reflection.Emit/4.7.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
-      },
-      "System.Runtime/4.1.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.0.1",
-          "Microsoft.NETCore.Targets": "1.0.1",
-          "runtime.any.System.Runtime": "4.1.0"
-        },
-        "compile": {
-          "ref/netstandard1.5/System.Runtime.dll": {}
-        }
-      },
-      "System.Runtime.CompilerServices.Unsafe/4.6.0": {
-        "type": "package",
-        "compile": {
-          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
-        }
-      },
-      "System.Security.AccessControl/5.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "5.0.0",
-          "System.Security.Principal.Windows": "5.0.0"
-        },
-        "compile": {
-          "ref/netstandard2.0/System.Security.AccessControl.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.Security.AccessControl.dll": {}
-        }
-      },
-      "System.Security.Principal.Windows/5.0.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp3.0/System.Security.Principal.Windows.dll": {}
-        },
-        "runtime": {
-          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {}
-        }
-      },
-      "System.Text.Json/5.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
-        }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
-      },
-      "Tmds.DBus/0.9.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Reflection.Emit": "4.7.0",
-          "System.Security.Principal.Windows": "4.7.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Tmds.DBus.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Tmds.DBus.dll": {}
-        }
-      },
-      "PboViewerLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/PboViewerLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PboViewerLib.dll": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -1439,62 +982,6 @@
         "version.txt"
       ]
     },
-    "runtime.any.System.Runtime/4.1.0": {
-      "sha512": "0QVLwEGXROl0Trt2XosEjly9uqXcjHKStoZyZG9twJYFZJqq2JJXcBMXl/fnyQAgYEEODV8lUsU+t7NCCY0nUQ==",
-      "type": "package",
-      "path": "runtime.any.system.runtime/4.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "lib/MonoAndroid10/_._",
-        "lib/MonoTouch10/_._",
-        "lib/net45/_._",
-        "lib/netcore50/System.Runtime.dll",
-        "lib/netstandard1.5/System.Runtime.dll",
-        "lib/win8/_._",
-        "lib/wp80/_._",
-        "lib/wpa81/_._",
-        "lib/xamarinios10/_._",
-        "lib/xamarinmac20/_._",
-        "lib/xamarintvos10/_._",
-        "lib/xamarinwatchos10/_._",
-        "ref/netstandard/_._",
-        "runtime.any.system.runtime.4.1.0.nupkg.sha512",
-        "runtime.any.system.runtime.nuspec",
-        "runtimes/aot/lib/netcore50/_._"
-      ]
-    },
-    "runtime.native.System/4.0.0": {
-      "sha512": "QfS/nQI7k/BLgmLrw7qm7YBoULEvgWnPI+cYsbfCVFTW8Aj+i8JhccxcFMu1RWms0YZzF+UHguNBK4Qn89e2Sg==",
-      "type": "package",
-      "path": "runtime.native.system/4.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "lib/netstandard1.0/_._",
-        "runtime.native.system.4.0.0.nupkg.sha512",
-        "runtime.native.system.nuspec"
-      ]
-    },
-    "runtime.unix.System.Private.Uri/4.0.1": {
-      "sha512": "m+7TLWWw4cA44vGxcKpMdV2Lgx6HWOe5rUb5RIADE04S6fJNEwXO6u+KY7oWFJQYn5644NyhSxB9oV28fF94NQ==",
-      "type": "package",
-      "path": "runtime.unix.system.private.uri/4.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "ref/netstandard/_._",
-        "runtime.unix.system.private.uri.4.0.1.nupkg.sha512",
-        "runtime.unix.system.private.uri.nuspec",
-        "runtimes/unix/lib/netstandard1.0/System.Private.Uri.dll"
-      ]
-    },
     "SkiaSharp/2.80.2": {
       "sha512": "D25rzdCwh+3L+XyXqpNa+H/yiLJbE3/R3K/XexwHyQjGdzZvSufFW3oqf3En7hhqSIsxsJ8f5NEZ0J5W5wlGBg==",
       "type": "package",
@@ -1787,20 +1274,6 @@
         "system.numerics.vectors.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
-      ]
-    },
-    "System.Private.Uri/4.0.1": {
-      "sha512": "OltceAn9yyNf9LZIqvf80DhdRH55iVu1fxowdR79018w1CWIRNojUZBStsiRHvADeKI5pXcM9EftOFikBQh5AA==",
-      "type": "package",
-      "path": "system.private.uri/4.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "ref/netstandard/_._",
-        "system.private.uri.4.0.1.nupkg.sha512",
-        "system.private.uri.nuspec"
       ]
     },
     "System.Reactive/5.0.0": {
@@ -2201,10 +1674,11 @@
   },
   "packageFolders": {
     "C:\\Users\\tcroi\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.4.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\PboViewer GUI.csproj",
       "projectName": "PboViewer",
@@ -2213,11 +1687,12 @@
       "outputPath": "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\tcroi\\source\\c#\\avalonia\\PboViewer\\PboViewer GUI\\NuGet.Config",
         "C:\\Users\\tcroi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2226,8 +1701,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/avalonia-ci/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -2276,31 +1750,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-            "version": "[5.0.2, 5.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[5.0.2, 5.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-            "version": "[5.0.2, 5.0.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "ubuntu-x64": {
-        "#import": []
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
