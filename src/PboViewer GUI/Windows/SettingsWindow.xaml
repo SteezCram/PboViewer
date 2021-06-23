@@ -23,13 +23,17 @@
       <TextBlock Name="Title" Margin="7" Text="PBO Viewer" FontSize="14" FontWeight="Light"/>
     </ExperimentalAcrylicBorder>
 
-    <StackPanel Margin="10,40,10,10">
+    <StackPanel Margin="10,40,10,10" IsVisible="{Binding CanModify}">
       <TextBlock Text="Behavior settings:" FontSize="18" Margin="0,0,0,10"/>
       <CheckBox Content="Keyboard navigation (experimental)" IsChecked="{Binding KeyboardNavigationChecked}" Command="{Binding CheckKeyboardNavigation}" Margin="0,0,0,30"/>
       
       <TextBlock Text="Operating system settings:" FontSize="18" Margin="0,0,0,10"/>
       <CheckBox Content="Open packed PBO in file explorer" IsChecked="{Binding PackedChecked}" Command="{Binding CheckPacked}"/>
       <CheckBox Content="Operating system integration" IsVisible="{Binding HasSystemIntegration}" IsChecked="{Binding IntegrationChecked}" Command="{Binding CheckIntegration}"/>
+    </StackPanel>
+
+    <StackPanel Margin="10,40,10,10" IsVisible="{Binding CannotModify}">
+      <TextBlock Text="Please launch PBO Viewer with the administrator right to modify the settings."/>
     </StackPanel>
   </Grid>
 

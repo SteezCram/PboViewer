@@ -57,7 +57,33 @@ namespace PboViewer.ViewModels
             }
         }
 
-        
+        public bool CanModify
+        {
+            get => _canModify;
+            set
+            {
+                if (value != _canModify)
+                {
+                    _canModify = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public bool CannotModify
+        {
+            get => _cannotModify;
+            set
+            {
+                if (value != _cannotModify)
+                {
+                    _canModify = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+
         public ICommand CheckKeyboardNavigation { get; set; }
         public ICommand CheckPacked { get; set; }
         public ICommand CheckIntegration { get; set; }
@@ -66,10 +92,22 @@ namespace PboViewer.ViewModels
         private bool _keyboardNavigationChecked;
         private bool _packedChecked;
         private bool _integrationChecked;
+        private bool _canModify;
+        private bool _cannotModify;
 
 
         public SettingsWindowViewModel()
         {
+            try {
+                Settings.SaveSettings();
+                CanModify = true;
+                CannotModify = false;
+            }
+            catch {
+                CanModify = false;
+                CannotModify = true;
+            }
+
             KeyboardNavigationChecked = Settings.PboViewerSettings.KeyboardNavigation;
             PackedChecked = Settings.PboViewerSettings.OpenPackedPboInFileExplorer;
             IntegrationChecked = Settings.PboViewerSettings.OSIntegration;
