@@ -6,6 +6,7 @@
 		    Width="800" Height="450"
 		    x:Class="PboViewer.Windows.PboViewerMainWindow"
 		    Title="PBO Viewer"
+        Icon="/Data/PBOViewer_Icon.ico"
         Background="{x:Null}"
         DragDrop.AllowDrop="True">
 
@@ -21,16 +22,29 @@
         <ExperimentalAcrylicMaterial TintColor="#222222" MaterialOpacity="0.85" TintOpacity="1"/>
       </ExperimentalAcrylicBorder.Material>
 
-      <TextBlock Name="Title" Margin="7" Text="PBO Viewer" FontSize="14" FontWeight="Light"/>
+      <StackPanel Orientation="Horizontal">
+        <Image Source="/Data/PBOViewer_Icon.ico" Width="18" Height="18" VerticalAlignment="Top" Margin="7,7,0,7"/>
+        <TextBlock Name="Title" Margin="7" Text="PBO Viewer" FontSize="14" FontWeight="Light" TextTrimming="CharacterEllipsis"/>
+      </StackPanel>
     </ExperimentalAcrylicBorder>
 
-    <Button Name="SettingsButton" Classes="imageButton" Margin="0,0,140,0" HorizontalAlignment="Right" VerticalAlignment="Top"
-            Command="{Binding OpenSettings}">
-      <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-        <DrawingPresenter Height="18" Width="18" Drawing="{DynamicResource Material.Settings}" Margin="0,0,10,0"/>
-        <TextBlock Text="Settings" FontSize="14" FontWeight="Light"/>
-      </StackPanel>
-    </Button>
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+      <Button Name="HomeButton" Classes="imageButton" VerticalAlignment="Top"
+              Command="{Binding Home}">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+          <DrawingPresenter Height="18" Width="18" Drawing="{DynamicResource Material.Home}" Margin="0,0,10,0"/>
+          <TextBlock Text="Home" FontSize="14" FontWeight="Light"/>
+        </StackPanel>
+      </Button>
+      
+      <Button Name="SettingsButton" Classes="imageButton" Margin="0,0,140,0" VerticalAlignment="Top"
+        Command="{Binding OpenSettings}">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+          <DrawingPresenter Height="18" Width="18" Drawing="{DynamicResource Material.Settings}" Margin="0,0,10,0"/>
+          <TextBlock Text="Settings" FontSize="14" FontWeight="Light"/>
+        </StackPanel>
+      </Button>
+    </StackPanel>
 
     <Border Margin="0,30,0,0" Child="{Binding Child}"/>
   </Grid>

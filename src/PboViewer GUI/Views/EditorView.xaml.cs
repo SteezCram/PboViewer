@@ -68,7 +68,7 @@ namespace PboViewer.Views
 
             ListBox itemListBox = sender as ListBox;
 
-            if (itemListBox.SelectedIndex == -1)
+            if (itemListBox.SelectedIndex == -1 && itemListBox.ItemCount != 0)
             {
                 itemListBox.SelectedIndex = 0;
                 IControl listBoxItem = itemListBox.ItemContainerGenerator.ContainerFromIndex(itemListBox.SelectedIndex) as IControl;

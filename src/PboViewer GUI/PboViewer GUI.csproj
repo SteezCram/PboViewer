@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Remove="App.xaml" />
+    <None Remove="Data\PBOViewer_Icon.ico" />
     <None Remove="Styles\Button.xaml" />
     <None Remove="Styles\Icons\Material.xaml" />
     <None Remove="Styles\SideBar.xaml" />
@@ -42,6 +43,7 @@
     <None Remove="Windows\SettingsWindow.xaml" />
   </ItemGroup>
   <ItemGroup>
+    <AvaloniaResource Include="Data\PBOViewer_Icon.ico" />
     <AvaloniaResource Include="Styles\Icons\Material.xaml">
       <Generator>MSBuild:Compile</Generator>
     </AvaloniaResource>

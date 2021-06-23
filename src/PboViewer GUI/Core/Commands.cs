@@ -78,17 +78,20 @@ namespace PboViewer.Core
 
             if (!File.Exists(filePath))
             {
-                checksumWindow.Init(filePath, "File not found");
+                checksumWindow.Init(filePath, "File not found", "File not found");
                 return;
             }
 
             using SHA256 sha256 = SHA256.Create();
+            using MD5 md5 = MD5.Create();
             using Stream stream = new FileStream(filePath, FileMode.Open, FileAccess.Read);
 
-            byte[] hash = await Task.Run(() => sha256.ComputeHash(stream));
-            string shaChecksum = BitConverter.ToString(hash).Replace("-", "").ToLowerInvariant();
+            byte[] shaHash = await Task.Run(() => sha256.ComputeHash(stream));
+            string shaChecksum = BitConverter.ToString(shaHash).Replace("-", "").ToLowerInvariant();
+            byte[] md5Hash = await Task.Run(() => md5.ComputeHash(stream));
+            string md5Checksum = BitConverter.ToString(md5Hash).Replace("-", "").ToLowerInvariant();
 
-            checksumWindow.Init(filePath, shaChecksum);
+            checksumWindow.Init(filePath, shaChecksum, md5Checksum);
         }
 
         /// <summary>

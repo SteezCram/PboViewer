@@ -225,7 +225,7 @@ C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\dbgshi
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\hostfxr.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\hostpolicy.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\mscordaccore.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\mscordaccore_amd64_amd64_5.0.220.61120.dll
+C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\mscordaccore_amd64_amd64_5.0.721.25508.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\mscordbi.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\mscorrc.dll
 C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer GUI\publish\windows\ucrtbase.dll

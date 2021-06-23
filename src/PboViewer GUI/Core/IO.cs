@@ -76,11 +76,17 @@ namespace PboViewer.Core
         /// </summary>
         public static void Unwatch()
         {
-            EditorWatcher.Dispose();
-            EditorWatcher = null;
+            if (EditorWatcher != null)
+            {
+                EditorWatcher.Dispose();
+                EditorWatcher = null;
+            }
 
-            EditorTimer.Dispose();
-            EditorTimer = null;
+            if (EditorTimer != null)
+            {
+                EditorTimer.Dispose();
+                EditorTimer = null;
+            }
         }
     }
 }

@@ -20,14 +20,16 @@ namespace PboViewer.Windows
             AvaloniaXamlLoader.Load(this);
         }
 
-        public void Init(string path, string checksum)
+        public void Init(string path, string shaChecksum, string md5Checksum)
         {
             DataContext = new ChecksumWindowViewModel
             {
                 File = path,
                 SHA = "SHA 256 checksum:",
+                MD5 = "MD5 checksum:",
                 ChecksumResult = $"Checksum result for:",
-                Checksum = checksum,
+                SHAChecksum = shaChecksum,
+                MD5Checksum = md5Checksum,
             };
 
             Show();
