@@ -7,3 +7,8 @@ echo %mypath%
 
 :: Unregister the shell extension dll
 %SystemRoot%\Microsoft.NET\Framework64\v4.0.30319\RegAsm.exe "%mypath%\PboViewer_ShellExtension.dll" /unregister
+
+REG QUERY HKCR\pbo.1 >nul
+if %ERRORLEVEL% EQU 0 (
+	REG DELETE HKCR\pbo.1 /f
+)
