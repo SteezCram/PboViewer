@@ -1,5 +1,5 @@
 # PboViewer
-Cross-platform PBO maker / unpacker
+Cross-platform PBO maker / unpacker. Check the wiki [here](https://github.com/SteezCram/PboViewer/wiki).
 
 ## GUI
 The GUI is availble to all the platform.
