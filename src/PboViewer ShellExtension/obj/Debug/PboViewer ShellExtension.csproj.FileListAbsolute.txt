@@ -1,9 +1,0 @@
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\Debug\PboViewer_ShellExtension.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\Debug\PboViewer_ShellExtension.pdb
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\Debug\SharpShell.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\bin\Debug\SharpShell.xml
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\Debug\PboViewer ShellExtension.csprojAssemblyReference.cache
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\Debug\PboViewer ShellExtension.csproj.CoreCompileInputs.cache
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\Debug\PboViewer ShellExtension.csproj.CopyComplete
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\Debug\PboViewer_ShellExtension.dll
-C:\Users\tcroi\source\c#\avalonia\PboViewer\PboViewer ShellExtension\obj\Debug\PboViewer_ShellExtension.pdb
