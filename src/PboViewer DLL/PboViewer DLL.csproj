@@ -4,10 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>PboViewer_Lib</RootNamespace>
     <AssemblyName>PboViewerLib</AssemblyName>
-    <Platforms>AnyCPU</Platforms>
+    <Platforms>AnyCPU;ARM64</Platforms>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">
     <DefineConstants>DEBUG;TRACE</DefineConstants>
   </PropertyGroup>
 
