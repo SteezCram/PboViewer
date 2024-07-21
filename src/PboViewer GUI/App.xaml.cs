@@ -38,7 +38,7 @@ namespace PboViewer
                             Commands.OpenPBO(desktop.Args[0]);
                         // Open the folder
                         else if (Directory.Exists(desktop.Args[0]))
-                            Commands.OpenFolder(desktop.Args[0].EndsWith("/") ? desktop.Args[0].Substring(0, desktop.Args[0].Length - 1) : desktop.Args[0]); // Remove the trailing slash
+                            Commands.OpenFolder(desktop.Args[0].TrimEnd(['\\', '/'])); // Remove the trailing slash
 
                         base.OnFrameworkInitializationCompleted();
                         break;
