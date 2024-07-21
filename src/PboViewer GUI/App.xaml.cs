@@ -37,8 +37,8 @@ namespace PboViewer
                         if (Path.GetExtension(desktop.Args[0]) == ".pbo")
                             Commands.OpenPBO(desktop.Args[0]);
                         // Open the folder
-                        else if (Path.GetExtension(desktop.Args[0]) == "")
-                            Commands.OpenFolder(desktop.Args[0]);
+                        else if (Directory.Exists(desktop.Args[0]))
+                            Commands.OpenFolder(desktop.Args[0].EndsWith("/") ? desktop.Args[0].Substring(0, desktop.Args[0].Length - 1) : desktop.Args[0]); // Remove the trailing slash
 
                         base.OnFrameworkInitializationCompleted();
                         break;
