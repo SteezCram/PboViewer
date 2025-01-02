@@ -6,7 +6,7 @@
     <RootNamespace>PboViewer</RootNamespace>
     <Platforms>AnyCPU;x64</Platforms>
     <ApplicationIcon>Data\PBOViewer_Icon.ico</ApplicationIcon>
-    <Version>1.4.1</Version>
+    <Version>1.4.2</Version>
     <Description>Crossplatform PBO packer.</Description>
     <Authors>Thomas CROIZET "Steez"</Authors>
     <PackageProjectUrl>https://github.com/SteezCram/PboViewer</PackageProjectUrl>
