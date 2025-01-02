@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace PboViewer_Lib
@@ -75,7 +76,17 @@ namespace PboViewer_Lib
             int reserved = ReadInt32();
             int timeStamp = ReadInt32();
             int datasize = ReadInt32();
-          
+
+            // Fix the file name by using the right directory separator
+            if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+            {
+                fileName = fileName.Replace("/", "\\");
+            }
+            else
+            {
+                fileName = fileName.Replace("\\", "/");
+            }
+
 
             PackingMethod packingMethod = PackingMethod.Uncompressed;
 
